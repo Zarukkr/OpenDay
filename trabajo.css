@@ -1,0 +1,29 @@
+
+#inicio{
+    text-align: center;
+}
+
+
+#medio{
+    display:none 
+}
+#final{
+    display:none ;}
+#cosa{
+    display:none ;}
+.menu{
+    background-color: darkslategrey;
+    color: white;
+    
+    text-align: center;
+    border-radius: 100%;
+    font-size: 1cm;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#imagen1{
+  width: 15%;
+}
+#absoluto{
+    position: absolute;
+}
